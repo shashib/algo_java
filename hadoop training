@@ -1,0 +1,26 @@
+elastic cloud. 
+hadoop is eco system.
+HDFS is file System for Hadoop. 
+Hue UI.
+Design and Develop MapReduce jobs
+Hadoop in Data Center-- physical problems multipl computers and muplitle systems. 
+little bit adminstration -- lots of jobs in market. 
+how to use HIve and PIg for rapid application development -- programming oriented.
+HIve- non programmers. more like SQL. 
+java background => directly write mapReduce jobs.
+Pig=> very close to english language. => made for business ppl.
+
+
+#######
+Best Practices in Map Reduce jobs
+Advance features in Hadoop 
+Hadoop 2.0 a must to know --> must to know for job. 
+introduction to Hbase. ==> Hadoop database. No-Sql. 
+introduction to Sqoop. ==> used to move data from Hadoop to RDMS & vice versa.==> must to know.  
+Introduction to Oozie. ==> work flow tool , design multiple hadoop job, huge potential and lot company use it. 
+
+# Actual project. 
+# more confident. 
+mapReduce jobs - 60%
+HIve jobs- <40%
+
